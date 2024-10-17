@@ -38,7 +38,8 @@
 ---
 
 ## 🌈 Unique Contribution Graph:
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=react-dark)
+![Contribution Graph](https://link-to-your-gif.com/contribution-graph.gif)
+
 
 ---
 
