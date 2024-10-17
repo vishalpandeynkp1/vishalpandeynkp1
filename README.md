@@ -21,8 +21,22 @@
 
 ---
 
+## 🌐 **Find Me On**:
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-handle)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-handle)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/your-handle)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![PyPi](https://img.shields.io/badge/PyPi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/your-username/)
+
+---
+
 ## 📈 **GitHub Stats**:
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+
+---
+
+## 📊 **User Activity Graph**:
+![User Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=react-dark)
 
 ---
 
@@ -38,13 +52,6 @@
 - **Hackathon Winner** at [Hackathon Name].
 - Recognized as **Contributor of the Month** in [Open Source Project].
 - **Published** in [Tech Platform/Journal].
-
----
-
-### 🌐 **Find me here**:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://your-website.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 
 ---
 
