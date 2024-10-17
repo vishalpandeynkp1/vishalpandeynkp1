@@ -21,11 +21,16 @@ I'm an **Ethical Hacker** with a passion for technology and innovation. Here’s
 
 ### Contact Me
 
-- 📞 **WhatsApp**: [8354052609](https://wa.me/8354052609)
-- 📸 **Instagram**: [nobita_bot_maker](https://instagram.com/nobita_bot_maker)
+<p align="center">
+  <a href="https://wa.me/8354052609" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://instagram.com/nobita_bot_maker" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 Feel free to reach out if you have any questions or collaboration ideas!
-
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
