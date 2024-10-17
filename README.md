@@ -5,5 +5,7 @@
    [![NOBITA](https://github-stats-alpha.vercel.app/api?username=vishalpandeynkp1 "NOBITA")](https://github-stats-alpha.vercel.app/api?username=vishalpandeynkp1 "NOBITA")
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalpandeynkp1&theme=flag-india&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalpandeynkp1&theme=flag-india" alt="Top Languages" width="700"/>
+</p>
 ![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalpandeynkp1)
