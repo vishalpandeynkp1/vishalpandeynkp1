@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://envs.sh/T1B.jpg" alt="Vishal Pandey" width="200" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+  <a href="https://t.me/ll_NOBITA_BOT_DEVLOPER_ll">
+    <img src="https://envs.sh/T1B.jpg" alt="Vishal Pandey" width="200" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+  </a>
 </p>
 
 <h2 align="center">Hello, I'm <a href="https://github.com/vishalpandeynkp1">Vishal Pandey</a>!</h2>
@@ -31,6 +33,7 @@ I'm an **Ethical Hacker** with a passion for technology and innovation. Here’s
 </p>
 
 Feel free to reach out if you have any questions or collaboration ideas!
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
