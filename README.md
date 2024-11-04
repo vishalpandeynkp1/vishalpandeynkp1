@@ -10,7 +10,7 @@
 ---
 
 ### About Me
-![Ethical Hacking Stats](https://github-readme-stats.vercel.app/api?username=vishalpandeynkp1&show_icons=true&theme=flag-india&count_private=true&hide=c)
+![Gaming Mod Development Stats](https://github-readme-stats.vercel.app/api?username=vishalpandeynkp1&show_icons=true&theme=flag-india&count_private=true&hide=c)
 
 <p align="center">
   <a href="https://wa.me/8354052609" style="text-decoration: none;">
