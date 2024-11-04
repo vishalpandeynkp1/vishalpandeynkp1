@@ -19,7 +19,8 @@ I'm an **Ethical Hacker** with a passion for technology and innovation. Here’s
 
 ### My GitHub Stats
 
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalpandeynkp1&show_icons=ture&theme=flag-india&count_private=flase)
+![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalpandeynkp1&show_icons=true&theme=flag-india&count_private=true&hide=a)
+
 
 
 ### Contact Me
