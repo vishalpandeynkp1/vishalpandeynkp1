@@ -39,9 +39,6 @@ I'm a dedicated **Ethical Hacker** with a focus on cybersecurity and data protec
 - 🤖 **Tool Development**: Creating scripts and tools to automate security tasks and improve efficiency.
 - 📚 **Continuous Learning**: Staying updated with the latest security trends and techniques.
 
-Aapke contact information ko README mein add karne ka format kuch is tarah hoga:
-
-```markdown
 # Hello, I'm [Your Name]
 Welcome to my GitHub profile!
 
@@ -52,9 +49,5 @@ I'm a passionate developer with expertise in...
 - [VIPNOBITAMUSIC_REPO](https://github.com/vishalpandeynkp1/VIPNOBITAMUSIC_REPO) - A music application that allows users to explore and enjoy their favorite tracks.
 
 ## Connect with Me
-- [Instagram](https://www.instagram.com/nobita_bot_maker) - nobita_bot_maker
-- [Telegram](https://t.me/ll_NOBITA_BOT_DEVLOPER_ll) - @ll_NOBITA_BOT_DEVLOPER_ll
-```
-
-Aap is information ko apne `README.md` file mein add kar sakte hain. Agar aapko aur koi changes chahiye ho, toh mujhe bataiye!
-
+[![Instagram](https://img.shields.io/badge/Instagram-nobita_bot_maker-orange?style=flat&logo=instagram)](https://www.instagram.com/nobita_bot_maker) 
+[![Telegram](https://img.shields.io/badge/Telegram-ll_NOBITA_BOT_DEVLOPER_ll-blue?style=flat&logo=telegram)](https://t.me/ll_NOBITA_BOT_DEVLOPER_ll)
