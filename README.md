@@ -10,14 +10,7 @@
 ---
 
 ### About Me
-
-I'm an **Ethical Hacker** with a passion for technology and innovation. Here’s a bit more about what I do:
-
-- 🔍 **Ethical Hacking**: I enjoy exploring security vulnerabilities and helping organizations protect their data.
-- 🤖 **Telegram Bot Developer**: I create various bots for Telegram that enhance user experience.
-- 🎮 **Gaming Mod Developer**: I develop mods for games, adding new features and enhancing gameplay.
-
-### Contact Me
+![Ethical Hacking Stats](https://github-readme-stats.vercel.app/api?username=vishalpandeynkp1&show_icons=true&theme=flag-india&count_private=true&hide=c)
 
 <p align="center">
   <a href="https://wa.me/8354052609" style="text-decoration: none;">
