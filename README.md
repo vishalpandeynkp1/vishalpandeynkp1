@@ -26,3 +26,20 @@ Feel free to reach out if you have any questions or collaboration ideas!
    [![NOBITA](https://github-stats-alpha.vercel.app/api?username=vishalpandeynkp1 "NOBITA")](https://github-stats-alpha.vercel.app/api?username=vishalpandeynkp1 "NOBITA")
 
 
+![Hacker Stats](https://github-readme-stats.vercel.app/api?username=vishalpandeynkp1&show_icons=true&theme=radical&count_private=true&hide=c)
+
+### About Me
+
+I'm a dedicated **Ethical Hacker** with a focus on cybersecurity and data protection. My mission is to enhance security measures for organizations while promoting safe digital practices.
+
+#### Areas of Expertise:
+
+- 🔍 **Vulnerability Assessment**: Conducting thorough assessments to identify security flaws.
+- 🛡️ **Penetration Testing**: Simulating attacks to evaluate the security of systems and networks.
+- 🤖 **Tool Development**: Creating scripts and tools to automate security tasks and improve efficiency.
+- 📚 **Continuous Learning**: Staying updated with the latest security trends and techniques.
+
+### Connect with Me
+Feel free to reach out for collaboration or discussion on cybersecurity topics!
+
+[GitHub](https://github.com/vishalpandeynkp1) | [LinkedIn](#) | [Twitter](#)
